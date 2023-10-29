@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+    margin: 0;
+}
+ .header{
+    
+    background-color:  #1C3180;
+   
+   border-bottom: 5px solid #FE630E;
+
+padding: 40px 0;
+
+
+text-align: center;}
+
+.header h1{
+    color: #FFFFFF;
+    font-size: 60px;
+    font-weight: 700;
+}
+.blog{
+    margin: 50px 0;
+}
+.post{
+    width: 968px;
+    background: #FFF;
+margin: 0 auto;
+padding: 30px 15px;
+box-sizing: border-box;
+}
+.color{
+    color: #FE630E;
+    font-size: 22px;
+    padding: 10px 0;
+}
+.post p{
+    font-size: 20px;
+}
+.post h2{
+    font-size: 35px;
+}
+.footer{
+    background: #1C3180;
+    
+    display: block;
+    height: 480px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
+.contact{
+    padding: 50px 70px;
+}
+.contact h2{
+    color: #FE630E;
+    font-size: 48px;
+    font-weight: 700;
+}
+.link-button{
+    background: #FE630E;
+    width: 150px;
+    height: 62px;
+
+color: #FFFFFF;
+font-size: 24px;
+font-weight: 700;
+padding: 10px 12px;
+text-decoration: none;
+}
+.contact p{
+    color: #FFFFFF;
+    font-size: 24px;
+}
+.contact-button{
+    background-color: #FFFFFF;
+    width: 150px;
+height: 62px;
+color: #1C3180;
+font-size: 24px;
+font-weight: 700;
+padding: 10px 12px;
+text-decoration: none;
+
+}
+    
+
+
+
+
+ 
